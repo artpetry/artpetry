@@ -1,2 +1,6 @@
-oi,meu nome é Arthur,eu tenho 15 anos e estou começando nessa área na matéria de Pensamento Computacional do Novo Ensino Médio.
-estou começando e aprendendo a programar nas linguagens de JavaScript e Scratch
+# Aprensentação
+## Quem sou eu?
+meu nome é Arthur.
+tenho 14 anos e estou começando nessa área pelas aulas de Pensamento Computacional no Novo Ensino Médio.
+## O que estou aprendendo?
+estou começando a programar com JavaScript e Scratch.
